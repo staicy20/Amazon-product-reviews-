@@ -89,9 +89,8 @@ Built in Microsoft Excel using **Pivot Tables**, **Charts**, **Formulas**, and *
 
 ##  Author
 
-Angela Akoth – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
+Angela Onjiko – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
 
----# 🛍️ Amazon Product Analysis & Dashboard
 
 
 
