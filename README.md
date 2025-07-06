@@ -1,6 +1,6 @@
 # Amazon Product Analysis & Dashboard
 
-An Excel-based interactive dashboard analyzing over **1,400 Amazon product listings** scraped from product pages. The project provides insights into pricing, ratings, discounts, reviews, and potential revenue.
+An Excel-based interactive dashboard analyzing over 1,400 Amazon product listings scraped from product pages. The project provides insights into pricing, ratings, discounts, reviews, and potential revenue.
 
 ---
 
@@ -43,18 +43,6 @@ An Excel-based interactive dashboard analyzing over **1,400 Amazon product listi
 
 Built in Microsoft Excel using **Pivot Tables**, **Charts**, **Formulas**, and **Slicers** to provide interactivity.
 
-###  Key Visuals & KPIs
-
-- Total Products
-- Highest Discount %
-- Average Rating
-- Top Rated Products
-- Review Counts by Category
-- Price Distribution Buckets
-- Ratings vs Discount Correlation
-- Revenue by Category
-
----
 
 ##  Tools Used
 
@@ -66,15 +54,14 @@ Built in Microsoft Excel using **Pivot Tables**, **Charts**, **Formulas**, and *
 ---
 
 ##  Dashboard Preview
+https://github.com/staicy20/Amazon-product-reviews-/blob/main/amazon%20dashboard.png
 
-*(Add screenshots here if available)*  
-`/screenshots/dashboard_overview.png`
 
 ---
 
 ##  Files
 
-- `amazon_product_dashboard.xlsx` – Main analysis and visuals
+- `amazon_case_study.xlsx` – Main analysis and visuals
 - `README.md` – Project documentation
 
 ---
@@ -89,7 +76,7 @@ Built in Microsoft Excel using **Pivot Tables**, **Charts**, **Formulas**, and *
 
 ##  Author
 
-Angela Onjiko – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
+Angela Staicy Onjiko – [staicyonjiko@gmail.com](mailto:staicyonjiko@gmail.com)
 
 
 
